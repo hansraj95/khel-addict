@@ -2,7 +2,7 @@ import React from 'react'
 import Footer from './footer';
 import Navbar from './navbar';
 import "../node_modules/bootstrap/dist/css/bootstrap.css"
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 import Soccer from './pages/soccer';
 import Cricket from './pages/cricket';
 import  './App.css'
@@ -15,7 +15,7 @@ function App()
     return(
         <div className="box">
         
-        <Router>
+        <HashRouter>
         <Navbar />
         
         <Switch>
@@ -27,7 +27,7 @@ function App()
         </Switch>
 
         <Footer/>
-      </Router>
+      </HashRouter>
     </div>
     
     )

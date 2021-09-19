@@ -1,0 +1,11 @@
+.container-sm{
+    max-width: 850px;
+    margin-top: 20px;
+    background-color: white;
+}
+@media (max-width:850px) {
+    .container-sm{
+        max-width: 95%;
+        margin-top: 20px;
+    }
+}

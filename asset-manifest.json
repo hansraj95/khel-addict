@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/khel-addict/static/css/main.759270bf.chunk.css",
+    "main.js": "/khel-addict/static/js/main.67b77455.chunk.js",
+    "main.js.map": "/khel-addict/static/js/main.67b77455.chunk.js.map",
+    "runtime-main.js": "/khel-addict/static/js/runtime-main.0b4aceb6.js",
+    "runtime-main.js.map": "/khel-addict/static/js/runtime-main.0b4aceb6.js.map",
+    "static/css/2.53150396.chunk.css": "/khel-addict/static/css/2.53150396.chunk.css",
+    "static/js/2.595d25ea.chunk.js": "/khel-addict/static/js/2.595d25ea.chunk.js",
+    "static/js/2.595d25ea.chunk.js.map": "/khel-addict/static/js/2.595d25ea.chunk.js.map",
+    "index.html": "/khel-addict/index.html",
+    "static/css/2.53150396.chunk.css.map": "/khel-addict/static/css/2.53150396.chunk.css.map",
+    "static/css/main.759270bf.chunk.css.map": "/khel-addict/static/css/main.759270bf.chunk.css.map",
+    "static/js/2.595d25ea.chunk.js.LICENSE.txt": "/khel-addict/static/js/2.595d25ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b4aceb6.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.595d25ea.chunk.js",
+    "static/css/main.759270bf.chunk.css",
+    "static/js/main.67b77455.chunk.js"
+  ]
+}
